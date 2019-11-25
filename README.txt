@@ -3,13 +3,14 @@ Reinforced Learning
 Louis DURET-ROBERT
 
 
-1. install Python 3.7.4 and the following libraries :
+1. Copy the repo https://github.com/Louis-DR/Reinforcement-Learning
+2. install Python 3.7.4 and the following libraries :
     - numpy
     - scipy
     - matplotlib
     - tqdm
-2. The best way to view and execute the code is to install Jupyter, Visual Studio Code and the Jupyter or Microsoft Python extension
-2bis. To view the colored sections, install the extension Colored Regions by mihelcic and add this to the user settings JSON :
+3. The best way to view and execute the code is to install Jupyter, Visual Studio Code and the Jupyter or Microsoft Python extension
+3bis. To view the colored sections, install the extension Colored Regions by mihelcic and add this to the user settings JSON :
     "coloredRegions.namedColors": {
         "danger": "rgba(255, 0, 0, 0.5)",
         "warning": "rgba(255, 150, 0, 0.5)",
@@ -23,6 +24,6 @@ Louis DURET-ROBERT
         "white": "rgba(236, 240, 241,0.1)",
         "black": "rgba(0, 0, 0,0.2)"
     }
-3. Open main.py
-4. Execute the first cell to imports the libraries
-5. Execute the next cells using the comments and colors for directions
+4. Open main.py
+5. Execute the first cell to imports the libraries
+6. Execute the next cells using the comments and colors for directions
